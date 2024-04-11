@@ -1,0 +1,29 @@
+{
+  "quad_exercises": [
+    {
+      "name": "Squats",
+      "description": "Stand with your feet shoulder-width apart. Bend your knees and lower your body as if you were sitting back into a chair. Keep your chest up and your core engaged. Push through your heels to return to the starting position. Repeat for desired reps.",
+      "image_url": "https://example.com/squats.png"
+    },
+    {
+      "name": "Leg Press",
+      "description": "Sit on the leg press machine with your back flat against the backrest and your feet shoulder-width apart on the footplate. Push the footplate away from you by extending your knees until your legs are fully extended. Slowly lower the weight back to the starting position. Repeat for desired reps.",
+      "image_url": "https://example.com/leg_press.png"
+    },
+    {
+      "name": "Lunges",
+      "description": "Stand with your feet hip-width apart. Take a large step forward with one foot and lower your body until both knees are bent at a 90-degree angle. Keep your chest up and your core engaged. Push through the heel of your front foot to return to the starting position. Repeat on the other side.",
+      "image_url": "https://example.com/lunges.png"
+    },
+    {
+      "name": "Leg Extensions",
+      "description": "Sit on the leg extension machine with your back against the backrest and your feet hooked under the padded bar. Extend your legs until they are straight, lifting the padded bar. Slowly lower the weight back to the starting position. Repeat for desired reps.",
+      "image_url": "https://example.com/leg_extensions.png"
+    },
+    {
+      "name": "Step-Ups",
+      "description": "Stand facing a sturdy bench or platform. Step onto the bench with one foot, pressing through your heel to lift your body up onto the bench. Step back down with the same foot. Repeat for desired reps on one side before switching to the other foot.",
+      "image_url": "https://example.com/step_ups.png"
+    }
+  ]
+}

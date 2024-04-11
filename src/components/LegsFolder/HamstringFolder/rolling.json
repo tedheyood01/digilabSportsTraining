@@ -1,0 +1,29 @@
+{
+  "foam_rolling_hamstrings": [
+    {
+      "name": "Basic Hamstring Foam Roll",
+      "description": "Sit on the floor with your legs extended and the foam roller positioned under your thighs. Support yourself with your hands placed behind you on the floor. Roll slowly from the bottom of your buttocks to just above your knees, focusing on any tight or tender spots. Roll back and forth for 1-2 minutes.",
+      "image_url": "https://example.com/basic_hamstring_foam_roll.png"
+    },
+    {
+      "name": "Side-Lying Hamstring Foam Roll",
+      "description": "Lie on your side with the foam roller positioned under the outside of your thigh. Support yourself with your bottom arm and the opposite foot. Roll slowly from the bottom of your buttocks to just above your knee, focusing on any tight areas. Roll back and forth for 1-2 minutes and switch sides.",
+      "image_url": "https://example.com/side_lying_hamstring_foam_roll.png"
+    },
+    {
+      "name": "Seated Hamstring Foam Roll",
+      "description": "Sit on the floor with your legs extended and the foam roller positioned under your thighs. Place your hands on the floor behind you for support. Roll slowly from the bottom of your buttocks to just above your knees, focusing on any areas of tension. Roll back and forth for 1-2 minutes.",
+      "image_url": "https://example.com/seated_hamstring_foam_roll.png"
+    },
+    {
+      "name": "Single-Leg Hamstring Foam Roll",
+      "description": "Sit on the floor with one leg extended and the other bent with the foot flat on the floor. Place the foam roller under the extended thigh. Support yourself with your hands on the floor behind you. Roll slowly from the bottom of your buttocks to just above your knee, focusing on any tight spots. Roll back and forth for 1-2 minutes and switch legs.",
+      "image_url": "https://example.com/single_leg_hamstring_foam_roll.png"
+    },
+    {
+      "name": "Hamstring Foam Roll with Crossed Leg",
+      "description": "Sit on the floor with one leg bent and the other crossed over it. Place the foam roller under the bent thigh. Support yourself with your hands on the floor behind you. Roll from the bottom of your buttocks to just above your knee, focusing on any tight areas. Roll back and forth for 1-2 minutes and switch legs.",
+      "image_url": "https://example.com/hamstring_foam_roll_with_crossed_leg.png"
+    }
+  ]
+}

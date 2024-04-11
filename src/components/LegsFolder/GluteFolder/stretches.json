@@ -1,0 +1,29 @@
+{
+    "glute_exercises": [
+      {
+        "name": "Glute Bridges",
+        "description": "Lie on your back with your knees bent and feet flat on the floor. Lift your hips towards the ceiling, squeezing your glutes at the top of the movement. Lower your hips back down to the starting position. Repeat for desired reps.",
+        "image_url": "https://example.com/glute_bridges.png"
+      },
+      {
+        "name": "Hip Thrusts",
+        "description": "Sit on the floor with your upper back against a bench and your knees bent. Place a barbell or weighted plate across your hips. Push through your heels to lift your hips towards the ceiling, squeezing your glutes at the top of the movement. Lower your hips back down to the starting position. Repeat for desired reps.",
+        "image_url": "https://example.com/hip_thrusts.png"
+      },
+      {
+        "name": "Deadlifts",
+        "description": "Stand with your feet hip-width apart and hold a barbell or dumbbells in front of your thighs. Keeping your back straight, hinge at your hips and lower the weights towards the floor, pushing your hips back until you feel a stretch in your hamstrings. Push through your heels to return to the starting position, squeezing your glutes at the top of the movement. Repeat for desired reps.",
+        "image_url": "https://example.com/deadlifts.png"
+      },
+      {
+        "name": "Single-Leg Glute Bridges",
+        "description": "Lie on your back with your knees bent and feet flat on the floor. Lift one foot off the ground and extend it straight up towards the ceiling. Push through the heel of your other foot to lift your hips towards the ceiling, squeezing your glutes at the top of the movement. Lower your hips back down to the starting position. Repeat for desired reps on one side before switching to the other side.",
+        "image_url": "https://example.com/single_leg_glute_bridges.png"
+      },
+      {
+        "name": "Lunges",
+        "description": "Stand with your feet hip-width apart. Take a large step forward with one foot and lower your body until both knees are bent at a 90-degree angle. Keep your chest up and your core engaged. Push through the heel of your front foot to return to the starting position. Repeat on the other side.",
+        "image_url": "https://example.com/lunges.png"
+      }
+    ]
+  }

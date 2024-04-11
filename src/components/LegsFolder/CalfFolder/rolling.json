@@ -1,0 +1,24 @@
+{
+    "foam_rolling_calves": [
+      {
+        "name": "Basic Calf Foam Roll",
+        "description": "Sit on the floor with your legs extended and the foam roller positioned under your calves. Support yourself with your hands placed behind you on the floor. Roll slowly from just above your ankles to just below your knees, focusing on any tight or tender spots. Roll back and forth for 1-2 minutes.",
+        "image_url": "https://example.com/basic_calf_foam_roll.png"
+      },
+      {
+        "name": "Seated Calf Foam Roll",
+        "description": "Sit on the floor with your legs extended and the foam roller positioned under your calves. Place your hands on the floor behind you for support. Roll slowly from just above your ankles to just below your knees, focusing on any areas of tension. Roll back and forth for 1-2 minutes.",
+        "image_url": "https://example.com/seated_calf_foam_roll.png"
+      },
+      {
+        "name": "Single-Leg Calf Foam Roll",
+        "description": "Sit on the floor with one leg extended and the other bent with the foot flat on the floor. Place the foam roller under the extended calf. Support yourself with your hands on the floor behind you. Roll slowly from just above your ankle to just below your knee, focusing on any tight spots. Roll back and forth for 1-2 minutes and switch legs.",
+        "image_url": "https://example.com/single_leg_calf_foam_roll.png"
+      },
+      {
+        "name": "Calf Foam Roll with Crossed Leg",
+        "description": "Sit on the floor with one leg bent and the other crossed over it. Place the foam roller under the calf of the bent leg. Support yourself with your hands on the floor behind you. Roll from just above your ankle to just below your knee, focusing on any tight areas. Roll back and forth for 1-2 minutes and switch legs.",
+        "image_url": "https://example.com/calf_foam_roll_with_crossed_leg.png"
+      }
+    ]
+  }

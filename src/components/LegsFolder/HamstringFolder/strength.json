@@ -1,0 +1,29 @@
+{
+  "hamstring_exercises": [
+    {
+      "name": "Romanian Deadlifts",
+      "description": "Stand with your feet hip-width apart, holding a barbell or dumbbells in front of your thighs with an overhand grip. Keeping your back straight, bend at your hips and lower the weights towards the floor, pushing your hips back until you feel a stretch in your hamstrings. Keep the weights close to your legs. Return to the starting position by pushing through your heels and extending your hips. Repeat for desired reps.",
+      "image_url": "https://example.com/romanian_deadlifts.png"
+    },
+    {
+      "name": "Hamstring Curls",
+      "description": "Lie face down on a leg curl machine with your heels hooked under the padded bar. Contract your hamstrings to pull the bar towards your glutes, keeping your hips pressed into the bench. Slowly lower the weight back to the starting position. Repeat for desired reps.",
+      "image_url": "https://example.com/hamstring_curls.png"
+    },
+    {
+      "name": "Good Mornings",
+      "description": "Stand with your feet hip-width apart and a barbell across your upper back, or hold dumbbells at your shoulders. Keeping your back straight, hinge at your hips and lean forward until your torso is nearly parallel to the floor, feeling a stretch in your hamstrings. Keep your knees slightly bent. Return to the starting position by contracting your hamstrings and glutes. Repeat for desired reps.",
+      "image_url": "https://example.com/good_mornings.png"
+    },
+    {
+      "name": "Single-Leg Romanian Deadlifts",
+      "description": "Stand with your feet hip-width apart, holding a dumbbell in one hand. Shift your weight onto one leg and hinge at your hips to lower the dumbbell towards the floor, keeping your back straight and extending your other leg behind you for balance. Return to the starting position by contracting your hamstrings and glutes. Repeat for desired reps on one side before switching to the other side.",
+      "image_url": "https://example.com/single_leg_romanian_deadlifts.png"
+    },
+    {
+      "name": "Glute-Ham Raises",
+      "description": "Kneel on a glute-ham raise machine or secure your feet under a sturdy object. Keeping your back straight, lower your torso towards the floor by bending at your hips, feeling a stretch in your hamstrings. Engage your hamstrings and glutes to return to the starting position. Repeat for desired reps.",
+      "image_url": "https://example.com/glute_ham_raises.png"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "foam_rolling_glutes": [
+  {
+  "name": "Basic Glute Foam Roll",
+  "description": "Sit on the foam roller with it positioned under one buttock. Cross the ankle of the leg you are rolling over the knee of your other leg. Support yourself with your hands placed behind you on the floor. Roll slowly from the base of your spine to just above your hip, focusing on any tight or tender spots. Roll back and forth for 1-2 minutes and switch sides.",
+  "image_url": "https://example.com/basic_glute_foam_roll.png"
+  },
+  {
+  "name": "Side-Lying Glute Foam Roll",
+  "description": "Lie on your side with the foam roller positioned under the outside of your hip. Support yourself with your bottom arm and the opposite foot. Roll slowly from the side of your hip to just above your buttock, focusing on any tight areas. Roll back and forth for 1-2 minutes and switch sides.",
+  "image_url": "https://example.com/side_lying_glute_foam_roll.png"
+  },
+  {
+  "name": "Seated Glute Foam Roll",
+  "description": "Sit on the floor with the foam roller positioned under one buttock. Place your hands on the floor behind you for support. Roll slowly from the base of your spine to just above your hip, focusing on any areas of tension. Roll back and forth for 1-2 minutes and switch sides.",
+  "image_url": "https://example.com/seated_glute_foam_roll.png"
+  },
+  {
+  "name": "Single-Leg Glute Foam Roll",
+  "description": "Sit on the foam roller with it positioned under one buttock. Extend one leg straight out and cross the other ankle over the knee of the extended leg. Support yourself with your hands behind you on the floor. Roll slowly from the base of your spine to just above your hip, focusing on any tight spots. Roll back and forth for 1-2 minutes and switch sides.",
+  "image_url": "https://example.com/single_leg_glute_foam_roll.png"
+  },
+  {
+  "name": "Glute Foam Roll with Crossed Leg",
+  "description": "Sit on the floor with one leg bent and the other crossed over it. Place the foam roller under the bent buttock. Support yourself with your hands on the floor behind you. Roll from the base of your spine to just above your hip, focusing on any tight areas. Roll back and forth for 1-2 minutes and switch sides.",
+  "image_url": "https://example.com/glute_foam_roll_with_crossed_leg.png"
+  }
+  ]
+  }

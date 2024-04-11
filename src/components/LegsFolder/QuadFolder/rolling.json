@@ -1,0 +1,29 @@
+{
+  "foam_rolling_quads": [
+    {
+      "name": "Basic Quad Foam Roll",
+      "description": "Lie facedown with a foam roller placed under your thighs. Support yourself with your elbows and forearms. Roll slowly from the top of your thighs to just above your knees, focusing on any tight or tender spots. Roll back and forth for 1-2 minutes.",
+      "image_url": "https://example.com/basic_quad_foam_roll.png"
+    },
+    {
+      "name": "Side-Lying Quad Foam Roll",
+      "description": "Lie on your side with the foam roller under the outside of your thigh. Support yourself with your bottom arm and the opposite foot. Roll slowly from the top of your thigh to just above your knee, focusing on any tight areas. Roll back and forth for 1-2 minutes and switch sides.",
+      "image_url": "https://example.com/side_lying_quad_foam_roll.png"
+    },
+    {
+      "name": "Seated Quad Foam Roll",
+      "description": "Sit on the floor with the foam roller placed under your thighs. Place your hands on the floor behind you for support. Lift your hips slightly and roll from the top of your thighs to just above your knees. Focus on any areas of tension. Roll back and forth for 1-2 minutes.",
+      "image_url": "https://example.com/seated_quad_foam_roll.png"
+    },
+    {
+      "name": "Single-Leg Quad Foam Roll",
+      "description": "Lie facedown with the foam roller placed under one thigh. Support yourself with your forearms and the opposite foot. Roll slowly from the top of your thigh to just above your knee, focusing on any tight spots. Roll back and forth for 1-2 minutes and switch legs.",
+      "image_url": "https://example.com/single_leg_quad_foam_roll.png"
+    },
+    {
+      "name": "Quad Foam Roll with Crossed Leg",
+      "description": "Sit on the floor with one leg bent and the other crossed over it. Place the foam roller under the bent thigh. Support yourself with your hands on the floor behind you. Roll from the top of your thigh to just above your knee, focusing on any tight areas. Roll back and forth for 1-2 minutes and switch legs.",
+      "image_url": "https://example.com/quad_foam_roll_with_crossed_leg.png"
+    }
+  ]
+}

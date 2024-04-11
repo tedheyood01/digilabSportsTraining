@@ -1,0 +1,11 @@
+{
+    "muscle_groups": {
+      "Legs": ["quadriceps", "hamstrings", "glutes", "calves", "hip flexors", "adductors", "abductors"],
+      "Chest": ["pectorals"],
+      "Back": ["lats", "rhomboids", "traps", "lower back", "erector spinae", "rear deltoids"],
+      "Arms": ["biceps", "triceps", "forearms"],
+      "Shoulders": ["deltoids", "traps", "rotator cuff muscles"],
+      "Core": ["abdominals", "obliques", "lower back"]
+    }
+  }
+  

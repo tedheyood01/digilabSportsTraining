@@ -1,0 +1,30 @@
+{
+    "quad_stretches": [
+      {
+        "name": "Standing Quad Stretch",
+        "description": "Stand upright and grab one foot with your hand, pulling it towards your glutes until you feel a stretch in the front of your thigh. Keep your knees close together and your torso upright. Hold for 20-30 seconds and switch legs.",
+        "image_url": "https://example.com/standing_quad_stretch.png"
+      },
+      {
+        "name": "Seated Quad Stretch",
+        "description": "Sit on the floor with your legs extended in front of you. Bend one knee and bring the foot towards your glutes, placing it on the floor. Keep the other leg straight. Lean back slightly and lift your chest, feeling a stretch in the quad of the straight leg. Hold for 20-30 seconds and switch legs.",
+        "image_url": "https://example.com/seated_quad_stretch.png"
+      },
+      {
+        "name": "Lying Quad Stretch",
+        "description": "Lie on your side with your bottom leg bent for stability. Grab the top ankle and gently pull it towards your glutes until you feel a stretch in the front of your thigh. Keep your knees close together. Hold for 20-30 seconds and switch sides.",
+        "image_url": "https://example.com/lying_quad_stretch.png"
+      },
+      {
+        "name": "Standing Quad Stretch with Wall",
+        "description": "Stand facing a wall and place one hand on it for support. Bend one knee and grab the ankle of that leg with the hand of the same side. Pull the foot towards your glutes until you feel a stretch in the quad. Keep your knees close together. Hold for 20-30 seconds and switch legs.",
+        "image_url": "https://example.com/standing_quad_stretch_with_wall.png"
+      },
+      {
+        "name": "Quad Stretch with Strap",
+        "description": "Lie on your stomach and loop a strap around one ankle. Hold both ends of the strap with your hands and gently pull the ankle towards your glutes until you feel a stretch in the quad. Keep your hips pressed into the ground. Hold for 20-30 seconds and switch legs.",
+        "image_url": "https://example.com/quad_stretch_with_strap.png"
+      }
+    ]
+  }
+  

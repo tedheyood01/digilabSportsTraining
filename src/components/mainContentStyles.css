@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0;
+    background-color: gray;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: lightblue;
+    padding: 15px; /* Increased padding for better button appearance */
+    border-radius: 8px; /* Increased border radius for rounded corners */
+    margin-bottom: 20px; /* Increased margin for better spacing */
+    width: 200px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none; /* Removed border for a cleaner look */
+    cursor: pointer; /* Added cursor pointer for better interactivity */
+  }
+  
+  .button:hover {
+    background-color: #add8e6; /* Lighten button color on hover */
+  }
+  
+  .subButton {
+    background-color: lightgreen;
+    padding: 10px; /* Increased padding for better button appearance */
+    border-radius: 8px; /* Increased border radius for rounded corners */
+    margin-bottom: 10px; /* Increased margin for better spacing */
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 25px;
+    border: green, solid, 2px; 
+    cursor: pointer; /* Added cursor pointer for better interactivity */
+  }
+  
+  .subButton:hover {
+    background-color: #90ee90; /* Lighten button color on hover */
+  }
+  

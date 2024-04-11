@@ -1,0 +1,29 @@
+{
+    "calf_exercises": [
+      {
+        "name": "Calf Raises",
+        "description": "Stand with your feet hip-width apart and hold onto a stable surface for balance. Push through the balls of your feet to raise your heels as high as possible, feeling a contraction in your calf muscles. Lower your heels back down to the starting position. Repeat for desired reps.",
+        "image_url": "https://example.com/calf_raises.png"
+      },
+      {
+        "name": "Seated Calf Raises",
+        "description": "Sit on a chair or bench with your feet flat on the floor and a weight resting on your thighs. Place a block or step under the balls of your feet. Push through the balls of your feet to raise your heels as high as possible, feeling a contraction in your calf muscles. Lower your heels back down to the starting position. Repeat for desired reps.",
+        "image_url": "https://example.com/seated_calf_raises.png"
+      },
+      {
+        "name": "Standing Calf Raises with Dumbbells",
+        "description": "Stand with your feet hip-width apart, holding a dumbbell in each hand by your sides. Push through the balls of your feet to raise your heels as high as possible, feeling a contraction in your calf muscles. Lower your heels back down to the starting position. Repeat for desired reps.",
+        "image_url": "https://example.com/standing_calf_raises_with_dumbbells.png"
+      },
+      {
+        "name": "Donkey Calf Raises",
+        "description": "Stand on a raised platform or step with your toes on the edge and your heels hanging off. Bend forward at your waist and hold onto a stable surface for balance. Lower your heels as far as possible, feeling a stretch in your calf muscles. Push through the balls of your feet to raise your heels as high as possible. Repeat for desired reps.",
+        "image_url": "https://example.com/donkey_calf_raises.png"
+      },
+      {
+        "name": "Box Jumps",
+        "description": "Stand facing a sturdy box or platform. Bend your knees and swing your arms back, then explosively jump onto the box, landing softly on the balls of your feet. Use your calf muscles to propel yourself upward. Step back down and repeat for desired reps.",
+        "image_url": "https://example.com/box_jumps.png"
+      }
+    ]
+  }
